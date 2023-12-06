@@ -33,6 +33,6 @@ profiles:
     url: https://github.com/SongZeHNU/
 
 ---
-Ze Song received the B.S. degree from Hunan University, Changsha, China, in 2020, where I am currently pursuing the Ph.D. degree 
+Ze Song received the B.S. degree from Hunan University, Changsha, China, in 2020, where he is currently pursuing the Ph.D. degree 
 with the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province. 
-My research interests include Remote sensing object detection, camouflage scene understanding, and deep learning.
+His research interests include Remote sensing object detection, camouflage scene understanding, and deep learning.
