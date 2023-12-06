@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 宋泽
+title: Ze Song
 
 # Name pronunciation (optional)
-name_pronunciation: Song Ze
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Ze
