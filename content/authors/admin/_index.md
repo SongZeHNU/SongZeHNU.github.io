@@ -3,7 +3,7 @@
 title: 宋泽
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Song Ze
 
 # Full name (for SEO)
 first_name: Ze
@@ -33,7 +33,6 @@ profiles:
     url: https://github.com/SongZeHNU/
 
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ze Song received the B.S. degree from Hunan University, Changsha, China, in 2020, where he is currently pursuing the Ph.D. degree 
+with the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province. 
+His research interests include Remote sensing object detection, camouflage scene understanding, and deep learning.
