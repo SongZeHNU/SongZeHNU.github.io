@@ -22,9 +22,6 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my published paper
-          icon: brands/google-scholar
-          url:  xx
         - text: Connect with me on Email: Songze@ songz@hnu.edu.cn
           icon: at-symbol
           url: 'mailto:your-email@example.com'
