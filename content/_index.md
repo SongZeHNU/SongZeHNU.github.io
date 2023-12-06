@@ -28,7 +28,7 @@ sections:
         - text: Watch my new YouTube video to achieve 20x productivity
           icon: brands/youtube
           url: https://youtube.com
-        - text: Connect with me on Email songz@hnu.edu.cn
+        - text: Connect with me on songz@hnu.edu.cn
           icon: at-symbol
           url: https://linkedin.com
 ---
