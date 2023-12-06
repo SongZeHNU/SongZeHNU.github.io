@@ -30,5 +30,5 @@ sections:
           url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
         - text: Connect with me on Email
           icon: at-symbol
-          url: songz@hnu.edu.cn
+          url: https://songz@hnu.edu.cn
 ---
