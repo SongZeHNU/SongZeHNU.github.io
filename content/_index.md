@@ -24,7 +24,7 @@ sections:
       buttons:
         - text: Read my published paper
           icon: brands/google-scholar
-          url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
+          url:  https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
         - text: Connect with me on Email: Songze@ songz@hnu.edu.cn
           icon: at-symbol
           url: 'mailto:your-email@example.com'
