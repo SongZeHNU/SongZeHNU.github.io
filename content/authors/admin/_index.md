@@ -27,11 +27,9 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: google-scholar
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
-  - icon: github
-    url: https://github.com/SongZeHNU/
-  - icon: brands/instagram
+  - icon: brands/github
     url: https://github.com/SongZeHNU/
 
 ---
