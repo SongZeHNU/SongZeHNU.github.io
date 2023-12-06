@@ -22,9 +22,9 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
+        - text: Watch an introduction to my lab
+          icon: brands/youtube
+          url: https://hnuvpai.github.io/
         - text: Read my published paper
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
