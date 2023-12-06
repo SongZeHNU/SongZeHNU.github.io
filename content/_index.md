@@ -29,6 +29,6 @@ sections:
           icon: brands/youtube
           url: https://youtube.com
         - text: Connect with me on LinkedIn
-          icon: brands/linkedin
+          icon: at-symbol
           url: https://linkedin.com
 ---
