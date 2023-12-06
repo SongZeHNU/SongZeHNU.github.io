@@ -24,5 +24,5 @@ sections:
       buttons:
         - text: Connect with me on Email: Songze@ songz@hnu.edu.cn
           icon: at-symbol
-          url: 'mailto:your-email@example.com'
+          url: mailto:your-email@example.com
 ---
