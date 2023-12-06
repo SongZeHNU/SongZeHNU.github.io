@@ -25,9 +25,9 @@ sections:
         - text: Read my latest paper on LLMs
           icon: academicons/arxiv
           url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
+        - text: Read my published paper
+          icon: brands/google-scholar
+          url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
         - text: Connect with me on songz@hnu.edu.cn
           icon: at-symbol
           url: https://linkedin.com
