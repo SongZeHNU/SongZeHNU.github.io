@@ -28,7 +28,7 @@ sections:
         - text: Read my published paper
           icon: brands/google-scholar
           url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
-        - text: Connect with me on songz@hnu.edu.cn
+        - text: Connect with me on Email
           icon: at-symbol
-          url: https://linkedin.com
+          url: songz@hnu.edu.cn
 ---
