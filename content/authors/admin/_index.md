@@ -27,23 +27,13 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: google-scholar
+    url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
+  - icon: github
+    url: https://github.com/SongZeHNU/
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://github.com/SongZeHNU/
+
 ---
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
