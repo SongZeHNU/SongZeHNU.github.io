@@ -27,12 +27,12 @@ organizations:
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
+  # - icon: brands/google-scholar
+  #  url: https://scholar.google.com/citations?user=uatSii8AAAAJ&hl=zh-CN
   - icon: brands/github
     url: https://github.com/SongZeHNU/
 
 ---
 Ze Song received the B.S. degree from Hunan University, Changsha, China, in 2020, where he is currently pursuing the Ph.D. degree 
 with the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province. 
-His research interests include Remote sensing object detection, camouflage scene understanding, and deep learning.
+His research interests include remote sensing object detection, camouflage scene understanding, and deep learning.
