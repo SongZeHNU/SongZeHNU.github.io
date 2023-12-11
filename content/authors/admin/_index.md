@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD of Artificial Intelligence
+role: PhD of Pattern Recognition and Intelligent System
 
 # Organizations/Affiliations to show in About widget
 organizations:
