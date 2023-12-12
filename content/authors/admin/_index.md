@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Song Ze
+title: 宋泽
 
 # Name pronunciation (optional)
 name_pronunciation: ''
