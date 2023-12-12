@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ze Song
+title: Song Ze
 
 # Name pronunciation (optional)
 name_pronunciation: ''
